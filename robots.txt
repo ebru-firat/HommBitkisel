@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ebru-firat.github.io/HommBitkisel/sitemap.xml
